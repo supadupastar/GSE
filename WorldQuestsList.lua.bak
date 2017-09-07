@@ -1,0 +1,42 @@
+
+VWQL = {
+	["Switchtarget-Draenor"] = {
+		["FilterType"] = {
+		},
+		["Quests"] = {
+		},
+		["Filter"] = 63,
+	},
+	["Dæmsoñ-Draenor"] = {
+		["Filter"] = 63,
+		["Quests"] = {
+		},
+		["FilterType"] = {
+		},
+	},
+	["Sort"] = 5,
+	["VERSION"] = 42,
+	["Dæmson-Antonidas"] = {
+		["Filter"] = 63,
+		["Quests"] = {
+		},
+		["FilterType"] = {
+		},
+	},
+	["Dæmsõn-Draenor"] = {
+		["FilterType"] = {
+		},
+		["Quests"] = {
+		},
+		["Filter"] = 63,
+	},
+	["Switchtarget-Antonidas"] = {
+		["Filter"] = 63,
+		["Quests"] = {
+		},
+		["FilterType"] = {
+		},
+	},
+	["Ignore"] = {
+	},
+}

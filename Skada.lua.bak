@@ -1,0 +1,34 @@
+
+SkadaDB = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Dæmsõn - Draenor"] = "Default",
+		["Switchtarget - Antonidas"] = "Default",
+		["Switchtarget - Draenor"] = "Default",
+		["Dæmsoñ - Draenor"] = "Default",
+		["Dæmson - Antonidas"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["windows"] = {
+				{
+					["y"] = 46.4999122619629,
+					["point"] = "BOTTOMRIGHT",
+					["mode"] = "DPS",
+					["x"] = -69.0006103515625,
+				}, -- [1]
+			},
+			["versions"] = {
+				["1.6.3"] = true,
+				["1.6.4"] = true,
+				["1.6.7"] = true,
+			},
+			["modeclicks"] = {
+				["DPS"] = 3,
+			},
+		},
+	},
+}
